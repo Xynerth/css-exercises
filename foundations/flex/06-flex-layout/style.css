@@ -33,6 +33,7 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .footer {
@@ -57,4 +58,5 @@ ul {
   list-style: none;
   gap: 16px;
   padding: 0px;
+  margin: 0;
 }
