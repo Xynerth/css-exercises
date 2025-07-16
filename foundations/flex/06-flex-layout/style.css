@@ -33,3 +33,11 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+.content {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
