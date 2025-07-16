@@ -24,6 +24,8 @@ body {
   background: royalblue;
   box-sizing: border-box;
   flex: 1 0 auto;
+  font-size: 24px;
+  padding: 16px;
 }
 
 .card {
@@ -44,4 +46,13 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 48px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
